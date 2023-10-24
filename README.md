@@ -160,3 +160,20 @@ Venir à l'atelier:
 | Adresse de l'atelier | 28 Boulevard du sculpteur furieux, 18000 BOURGES |
 | Mail de l'entreprise | ossacip@sculpteur.fr |
 | Téléphone de l'entreprise | 02.49.12.45.50 |
+
+
+
+Voici les user stories sous forme de tableau :
+
+| User Story | En tant que... | Je veux... | Afin de... |
+|------------|--------------|-----------|------------|
+| 1          | Artiste O'ssacip | une page "Accueil" sur mon site web | présenter mon travail et ma sculpture "Stopper temps" pour donner aux visiteurs un aperçu de mon style artistique. |
+| 2          | Artiste O'ssacip | une section sur la page "Accueil" qui affiche des photographies de mes créations colorées et innovantes | montrer la diversité de mon portfolio. |
+| 3          | Visiteur du site | un menu en haut de chaque page | pour pouvoir naviguer facilement entre les pages "Accueil," "Rencontre," et "Contact" pour trouver rapidement les informations que je recherche. |
+| 4          | Visiteur du site | une page "Rencontre" qui liste les lieux et dates de mes expositions, ainsi que l'adresse de mon atelier et ses horaires d'ouverture | pour pouvoir planifier ma visite. |
+| 5          | Visiteur du site | un formulaire de contact sur la page "Contact" avec des champs pour mon nom et mon message, ainsi qu'un bouton "Envoyer" | pour pouvoir entrer en contact avec l'artiste. |
+| 6          | Visiteur du site | des informations de contact claires sur la page "Contact" avec l'adresse de l'atelier d'O'ssacip et son numéro de téléphone | pour pouvoir le contacter directement si nécessaire. |
+| 7          | Visiteur du site | que toutes les images du site, y compris les photographies des créations, contiennent des descriptions textuelles alternatives | pour rendre le site accessible à tous, y compris les personnes malvoyantes. |
+| 8          | Visiteur du site | que le titre de l'onglet de mon navigateur change en fonction de la page sur laquelle je me trouve, en ajoutant "O'ssacip - " devant le nom de la page | pour une navigation plus claire. |
+
+Ce tableau présente chaque user story, l'utilisateur concerné, la demande spécifique, et l'objectif de la demande. Vous pouvez utiliser ce tableau pour suivre et gérer le développement de votre site web en vous assurant que toutes les fonctionnalités nécessaires sont prises en compte.
